@@ -22,4 +22,4 @@
 This app was created to improve *convenience*, *engagement*, and *planning* for visitors of the Pine City Zoo.<br>
 
 🛠️ Built for
-FNB App Academy Course – A project showcasing mobile development fundamentals and real-world feature implementation.<br>
+FNB App Academy Course – A project showcasing mobile development fundamentals HTML AND CSS.<br>
